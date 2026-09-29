@@ -95,7 +95,7 @@ body {
 
     margin-top: 30px;
 
-    font-size: 14px;
+    font-size: 12px;
 
     font-weight: 700;
 
@@ -364,49 +364,6 @@ body {
     line-height: 1.7;
 }
 
-
-/* COUNTDOWN */
-
-.countdown-box {
-
-    margin-top: 25px;
-
-    display: grid;
-
-    grid-template-columns:
-        repeat(4, 1fr);
-
-    gap: 10px;
-}
-
-.countdown-box div {
-
-    padding: 15px 8px;
-
-    background-color: #1F2F4E;
-
-    border-radius: 10px;
-
-    text-align: center;
-}
-
-.countdown-box span {
-
-    display: block;
-
-    color: #FFAF00;
-
-    font-size: 25px;
-
-    font-weight: 700;
-}
-
-.countdown-box small {
-
-    color: #BED7DE;
-
-    font-size: 10px;
-}
 
 
 /* BUTTON */
